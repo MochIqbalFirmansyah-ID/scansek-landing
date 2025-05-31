@@ -12,8 +12,8 @@ const Footer = () => {
               <ActivitySquare size={24} className="text-primary-400 mr-2" />
               <span className="font-heading text-xl font-bold text-white">ScanSek</span>
             </div>
-            <p className="text-gray-400 mb-4 max-w-md">
-              ScanSek is an innovative application that helps users monitor their sugar consumption by scanning food packages using OCR technology.
+           <p className="text-gray-400 mb-4 max-w-md">
+             ScanSek adalah aplikasi inovatif yang membantu pengguna memantau konsumsi gula mereka dengan memindai kemasan makanan menggunakan teknologi OCR.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-white transition-colors">
